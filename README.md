@@ -35,10 +35,10 @@ python main.py
    - **Right Arrow:** Move right
 
 ## File List
-*main.py* : The main script that runs the game.
-*food.py* : Contains the Food class, which handles the food objects in the game.
-*scoreboard.py* : Contains the Scoreboard class, which handles the score display and game over message.
-*snake.py* : Contains the Snake class, which handles the snake's movement and behavior.
+- *main.py* : The main script that runs the game.
+- *food.py* : Contains the Food class, which handles the food objects in the game.
+- *scoreboard.py* : Contains the Scoreboard class, which handles the score display and game over message.
+- *snake.py* : Contains the Snake class, which handles the snake's movement and behavior.
 
 ## Example
 
